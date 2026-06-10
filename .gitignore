@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+hero_cycles.db
+node_modules/
+build/
+.env
